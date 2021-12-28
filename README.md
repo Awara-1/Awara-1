@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Awara-1
-- 👀 I’m interested in Machine Learning, Data Science, DSP, Android Development and Microcontrollers. I work on applications of these in the healthcare sector and for fun
+- 👀 I’m interested in Machine Learning, Data Science, DSP, Android Development and Microcontrollers. I have worked on applications of these in the healthcare sector and for fun
 - 💞️ Looking to collaborate on any of these areas, feel free to send a message!
 
 <!---
