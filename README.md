@@ -1,11 +1,11 @@
 # Hello 👋, you've stumbled across my space. I'm a software and data practitioner in the healthcare and med tech space. Don't forget to say hello and reach out 😀. 
 
-### The tools of my trade (↓)
+### Some of the tools of my trade (↓)
 
 <img src="https://github.com/user-attachments/assets/c744c8c7-6de0-416c-97c8-ef03ed0aac0a" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/d5f0548f-2baa-416c-a0fb-3f2929c43fe5" width="200" height="200">
 <img src="https://github.com/user-attachments/assets/a21e6b5e-9d9e-4745-a1ef-a69078c485d5" width="200" height="200">
 <img src="https://github.com/user-attachments/assets/d343d296-6642-4a9d-8043-08cab39b65de" width="200" height="200">
-<img src="https://github.com/user-attachments/assets/d5f0548f-2baa-416c-a0fb-3f2929c43fe5" width="200" height="200">
 <img src="https://github.com/user-attachments/assets/475a6f9b-9846-44de-a2b3-c36845535ebe">
 <img src="https://github.com/user-attachments/assets/3a9341d6-9bc6-437e-84e7-27ca8898d09c">
 <img src="https://github.com/user-attachments/assets/ef4ad9e0-1695-4ad5-89ef-6bcbc218a75a">
