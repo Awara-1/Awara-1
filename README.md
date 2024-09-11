@@ -1,4 +1,4 @@
-# Hello 👋, you've stumbled across my space. I'm a software and data practitioner in the healthcare and med tech space. Don't forget to say hello and reach out for any collabs 😀. 
+# Hello 👋, you've stumbled across my space. I'm a software and data practitioner in the healthcare and med tech space. Don't forget to say hello and reach out 😀. 
 
 ### The tools of my trade (↓)
 
