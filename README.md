@@ -1,7 +1,5 @@
 # Hello 👋
 
-### Some of the tools of my trade (↓)
-
 <img src="https://github.com/user-attachments/assets/c744c8c7-6de0-416c-97c8-ef03ed0aac0a" width="200" height="200">
 <img src="https://github.com/user-attachments/assets/d5f0548f-2baa-416c-a0fb-3f2929c43fe5" width="200" height="200">
 <img src="https://github.com/user-attachments/assets/a21e6b5e-9d9e-4745-a1ef-a69078c485d5" width="200" height="200">
